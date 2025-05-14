@@ -24,19 +24,3 @@
  
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<!-- [Languages and Tools section remains unchanged] -->
-
-<h1 align="center">GitHub Stats</h1>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=muzammilsajjad786786&card_width=600&background=000000&theme=merko&fire=FF5F1F&ring=ffeb14" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzammilsajjad786786&show_icons=true&count_private=true&hide_rank=true&theme=merko&card_width=600&include_all_commits=false&bg_color=000000" alt="Top Languages" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=muzammilsajjad786786&show_icons=true&count_private=true&hide_rank=true&layout=donut&theme=merko&card_width=600&bg_color=000000" alt="GitHub Stats" />
-</p>
